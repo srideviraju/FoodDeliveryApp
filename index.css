@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+
+#container{
+    background-color: red;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+
+}
+
+.nav-items >ul{
+    list-style-type: none;
+    display: flex;
+
+}
+.nav-items >ul >li {
+    padding: 10px;
+}
+
+.logo{
+    width: 100px;
+}
+
+.card{
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.card > img{
+width: 100%;
+}
+
+.restuarant-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer{
+   
+    width: 250px;
+    height: 300px;
+  margin: 20px;
+    background: lightgrey;
+  
+}
+  
+
+.menu > img{
+    width:200px;
+}
+
+.insta-section{
+    padding: 10px;
+    margin: 10px;
+    border : 1px solid black;
+}
+ */
+

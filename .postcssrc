@@ -1,0 +1,6 @@
+//config file which tell the bundler to compile tailwindcss to normal css
+{
+    "plugins": {
+      "tailwindcss": {}
+    }
+  }
